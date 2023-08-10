@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`NBIT206/DIFT206 ${siteConfig.title}`}
+      description="Operating Systems <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
