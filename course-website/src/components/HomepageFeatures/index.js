@@ -14,9 +14,12 @@ const FeatureList = [
           </li>
           
           <li>
-            <strong>Reading Exercise: Chapter 1 from Operating Systems: Three Easy Pieces by Remzi H. A&D</strong> 
+            <strong>Reading Exercise: Chapter 1 from Operating Systems: Principles and Practice by Michael Dahlin and Thomas Anderson</strong> 
           </li>
 
+          <li>
+            <a href='https://forms.office.com/Pages/ResponsePage.aspx?id=X78blMDydUiiTGkHhl0lGpJ-ZlQQWDdCu1Xqk7-_7gxUNDhWUE81WlREVkxYRkxMMzhEM1VPTDlZUi4u' target='_blank'>WEEK 1 Exercise from the reading</a> 
+          </li>
         </ul>
       </>
     ),

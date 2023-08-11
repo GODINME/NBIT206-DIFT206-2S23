@@ -66,7 +66,7 @@ The course evaluation will be a weighted mask score on class attenance and parti
 
 ## Textbook
 * [Operating Systems: Principles and Practice by Michael Dahlin and Thomas Anderson](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EU8HPWMyThxBvfyxHG7GClIB52Dyk_7Yw3rguWlglFm8uw?e=LXGGZy)
-* [Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EQr7D9WPIjlKrY49g6CrNnQBfJa-41hx7aluMOyfB4iRsA?e=OeJE8i)
+* [Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EfkE5W3kFmlAhdKKnuxPgc8BmJ-hatwCNgbt5_oEFWbDZg?e=gQOMAG)
 
 
 
