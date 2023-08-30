@@ -29,7 +29,19 @@ const FeatureList = [
     Svg: require('@site/static/img/wk2.svg').default,
     description: (
       <>
-        Comming Soon!!!
+        <ul>
+          <li>
+            <a href='https://ugedugh-my.sharepoint.com/:p:/g/personal/poffei_st_ug_edu_gh/EaxCbrjvAjpJiW2E4qE-NzcBgXYTCrrEQBK_WULr0HHeZw?e=tLgIWz' target='_blank'>Lecture Slide 2</a>
+          </li>
+          
+          <li>
+            <strong>Reading Exercise: Chapter 2.1-7 and 8.1 from Operating Systems: Principles and Practice by Michael Dahlin and Thomas Anderson</strong> 
+          </li>
+
+          <li>
+            <a href='#' target='_blank'>WEEK 2 Exercise from the reading yet to come</a> 
+          </li>
+        </ul>
       </>
     ),
   },
@@ -38,7 +50,13 @@ const FeatureList = [
     Svg: require('@site/static/img/wk3.svg').default,
     description: (
       <>
-        Coming Soon!!!
+        <li>
+            <strong>Reading Exercise: Chapter 3, 4.4-6 and 5  from Operating Systems: Principles and Practice by Michael Dahlin and Thomas Anderson</strong> 
+          </li>
+
+          <li>
+            <a href='#' target='_blank'>WEEK 3 Exercise from the reading yet to come</a> 
+          </li>
       </>
     ),
   },
